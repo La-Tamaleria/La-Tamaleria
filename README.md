@@ -10,6 +10,9 @@ Los repositorios tienen diferentes niveles de complejidad, en este momento se en
 
 El tamal es quizás el producto más LatinoAmericano, tenemos tamales en todos nuestros países desde La Argentina hasta México (incluso en Brazil), y teniendo en cuenta que estos proyectos están dirigidos a desarrolladores quienes hablan Español de ahi el nombre.
 
+#### Arquitectura 
+
+![Modelo](img/model.png)
 
 
 ## ⚡ Tecnologías
